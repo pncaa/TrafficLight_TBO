@@ -30,7 +30,7 @@ Proyek ini merupakan simulasi sistem lampu lalu lintas 4 lajur menggunakan Ardui
 
 Berikut adalah tampilan rangkaian pada Tinkercad:
 
-![Circuit Design](images/circuit.png)
+![Circuit Design](images/Circuit.png)
 
 ---
 
