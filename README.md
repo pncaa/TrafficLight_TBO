@@ -10,12 +10,13 @@
 
 ### Tugas 3
 
-![Circuit Design](images/Circuit3.png)
+![Circuit Design 3](images/Circuit3.png)
 
 👉 https://www.tinkercad.com/things/5Ek4kmtJdDc-traffic-light
 ---
+### Tugas 3
 
-![Circuit Design](images/Circuit4.png)
+![Circuit Design 4](images/Circuit4.png)
 
 👉 https://www.tinkercad.com/things/2O46Q4010ss-pedestrian-traffic-light
 ---
