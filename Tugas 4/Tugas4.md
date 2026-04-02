@@ -46,7 +46,7 @@ Proyek ini merupakan simulasi sistem lampu lalu lintas sederhana dengan tambahan
 
 Berikut adalah tampilan rangkaian pada Tinkercad:
 
-![Circuit Design](images/Circuit4.png)
+![Circuit Design](../images/Circuit4.png)
 
 ---
 
