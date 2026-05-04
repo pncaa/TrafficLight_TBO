@@ -21,10 +21,16 @@
 👉 https://www.tinkercad.com/things/2O46Q4010ss-pedestrian-traffic-light
 ---
 
-### Tugas 6
+### Tugas 5
 
-![Circuit Design 6](images/Circuit6.png)
+![Circuit Design 5](images/Circuit6.png)
 
 👉 https://www.tinkercad.com/things/30Eyh4UelrF-scrolling-text-i2c
+---
+### Tugas 6
+
+![Circuit Design 6](images/circuit6.png)
+
+👉 https://wokwi.com/projects/463057325068518401
 ---
 
